@@ -1,0 +1,29 @@
+form {
+    padding: 5px 3%;
+    margin: 10px;
+    box-sizing: border-box;
+    border: 3px dotted #000000;
+}
+
+#poll {
+    font-size: 18px;
+}
+
+
+
+table {
+    padding: 5px 3%;
+    margin: 10px;
+    box-sizing: border-box;
+    border: 3px dotted #000000;
+}
+tr{
+    font-size: 18px;
+    
+}
+
+input{
+    float: left;
+    margin-top: 5px;
+    margin-right:10px;
+}
